@@ -18,7 +18,7 @@ function solution(number){
 
  */
 /*
-var hanoi = function(disks) {
+let hanoi = function(disks) {
 
 let minSteps = 2;
 
